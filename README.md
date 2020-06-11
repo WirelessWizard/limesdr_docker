@@ -42,7 +42,7 @@ Contains recipe to build image based on ubuntu 18.04 with follwing software:
     gr-limesdr
     gqrx
     
-    r-ieee802-11
+    gr-ieee802-11
     gr-foo
     SoapyUHD
     
